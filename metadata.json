@@ -1,0 +1,10 @@
+{
+  "name": "Genesis Odyssey: El 1 en 10 Millones",
+  "description": "Videojuego educativo y científico con visión biométrica por cámara web y simulación biológica de las 6 etapas reproductivas para la Feria de la Ciencia y la Tecnología Grado 10.° (Olarte y Soto).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
